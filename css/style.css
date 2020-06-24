@@ -73,7 +73,7 @@ a, a:hover {
 .unslate_co--footer {
   position: fixed !important;
   width: 100%;
-  background-color: #C6DFDC;                                                                       /*Change footer color*/
+  background-color: #979EA0;                                                                       /*Change footer color*/
   color: #fff;
   left: 0;
   right: 0;
@@ -2034,7 +2034,7 @@ span.error {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #C6DFDC;                                                 /*Change over color on images and text on main page*/
+  background: #979EA0;                                                 /*Change over color on images and text on main page*/
 }
 
 .gsap-reveal-hero {
@@ -2053,7 +2053,7 @@ span.error {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #C6DFDC;                                              /*Change over color on text on cover page*/
+  background: #979EA0;                                              /*Change over color on text on cover page*/
   margin-left: -100%;
   z-index: 2;
 }
@@ -2082,7 +2082,7 @@ span.error {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #C6DFDC;                                                         /*Change over color on images and text on main page*/
+  background: #979EA0;                                                         /*Change over color on images and text on main page*/
   margin-left: -100%;
   z-index: 9;
 }
