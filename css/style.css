@@ -1605,11 +1605,13 @@ figure.dotted-bg:before {
   font-weight: 900;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.5);
+  margin-left: 455px;
 }
 
 .contact-info-v1 .contact-info-val {
   font-size: 20px;
   color: #fff;
+  margin-left: 385px;
 }
 
 .portfolio-single-inner .heading-portfolio-single-h2 {
